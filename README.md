@@ -10,7 +10,7 @@
 <p align="left">  
 • Year 1<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Semester 1<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://github.com/cs-ubbcluj-ro/a1-916-Stroia-Carina-Raluca-2">FP</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://github.com/Carina-Raluca-Stroia/FP.git">FP</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://github.com/username/asc-overview">ASC</a><br>
  
 &nbsp;&nbsp;&nbsp;&nbsp;• Semester 2<br>
